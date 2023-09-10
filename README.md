@@ -14,8 +14,12 @@ This master branch contains the *final version of the course code*, that you can
 # Installation pre-requisites
 
 IMPORTANT: Please use Node 18 LST (Long Term Support version).
+USE NODE 18.17.1
+10 DE SEPTIEMBRE 2032
 
 # Installing the Angular CLI
+USE ANGULAR 16.2.1
+10 DE SEPTIEMBRE 2032
 
 With the following command the angular-cli will be installed globally in your machine:
 
